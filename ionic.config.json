@@ -1,0 +1,7 @@
+{
+  "name": "dobra-digital",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
